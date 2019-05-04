@@ -1,0 +1,132 @@
+.from_name
+{
+	background:url(medicine_data_cheak.png);
+	width:1350px;
+	height:650px;
+	
+}
+h1
+{
+	color:black;
+	margin:0px 0px 0px 425px;
+}
+h3
+{
+	color:black;
+	margin:0px 0px 0px 200px;
+}
+
+
+
+
+
+
+
+
+
+
+.supplier_nid
+{
+	padding:50px 0px 0px 200px;
+	color:#5A64F6;
+	
+}
+.supplier_name
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+} 
+.datr_of_supply
+{
+	padding:10px 0px 0px 725px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+
+
+
+
+
+
+
+
+
+
+.medicine_id
+{
+	padding:10px 0px 0px 200px;
+	color:#5A64F6;
+	margin-top:5px;    
+}
+.name
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+.type
+{
+	padding:10px 0px 0px 200px;
+	color:#5A64F6;
+	margin-top:5px;    
+}
+.unit_price
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+.expiry_date
+{
+	padding:10px 0px 0px 725px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+
+
+
+
+
+.quantity
+{
+	padding:10px 0px 0px 200px;
+	color:#5A64F6;
+	margin-top:5px;    
+}
+.date_of_manufacture
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+
+
+
+
+
+
+.submit
+{ 
+    padding:10px 0px 0px 540px;
+	color:#5A64F6;
+	margin-top:-20px; 
+}
+#submit
+{
+
+	width:130px;
+	height:35px;
+	border:none;
+	background:#4CB261;
+	font-size:22px;
+	color:white;
+	margin-top:5px;
+	margin-left:10px;
+	cursor:pointer;
+
+}
+#submit:hover
+{
+	background:#0BDA35;
+}

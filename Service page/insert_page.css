@@ -1,0 +1,155 @@
+.main-contant
+{
+	background:url(service_page.jpeg);
+	width:1340px;
+	height:925px;
+	margin-left:10px;	
+	
+}
+h1
+
+{
+	 text-align: center;
+	 color:#FF0000;
+	 
+
+}
+
+
+.list li,a
+{
+	display:inline;
+	text-decoration:none;
+	text-transform:uppercase;
+	padding-left:10px;	
+	color:green;
+	margin-left:15px;
+	
+}
+.list
+{
+	padding-top:10px;
+}
+.list a:hover
+{
+	text-decoration:underline;
+	color:red;
+}
+
+
+
+
+.list01
+{
+	padding:50px 0px 0px 30px;
+	color:#5A64F6;
+	margin-top:50px;    
+}
+.list02
+{
+	padding:10px 0px 0px 30px;
+	color:#5A64F6;
+	margin-top:60px;    
+}
+.list03
+{
+	padding:10px 0px 0px 30px;
+	color:#5A64F6;
+	margin-top:70px;    
+}
+.list04
+{
+	padding:10px 0px 0px 30px;
+	color:#5A64F6;
+	margin-top:80px;    
+}
+
+.list05
+{
+	padding:10px 0px 0px 30px;
+	color:#5A64F6;
+	margin-top:90px;    
+}
+.list06
+{
+	padding:10px 0px 0px 30px;
+	color:#5A64F6;
+	margin-top:100px;    
+}
+
+
+
+
+
+.list10
+{
+	padding:50px 0px 0px 320px;
+	color:#5A64F6;
+	margin-top:-90px;    
+}
+.list20
+{
+	padding:50px 0px 0px 320px;
+	color:#5A64F6;
+	margin-top:-90px;    
+}
+.list30
+{
+	padding:50px 0px 0px 320px;
+	color:#5A64F6;
+	margin-top:-90px;    
+}
+.list40
+{
+	padding:50px 0px 0px 320px;
+	color:#5A64F6;
+	margin-top:-90px;    
+}
+.list50
+{
+	padding:50px 0px 0px 320px;
+	color:#5A64F6;
+	margin-top:-90px;    
+}
+.list60
+{
+	padding:50px 0px 0px 320px;
+	color:#5A64F6;
+	margin-top:-90px;    
+}
+
+
+
+
+
+
+button
+{
+  background:pink;
+ 
+  width:250px;
+  height:40px;
+  font-size:20px;
+  color:gray;
+  box-shadow:1px 1px 1px black;
+  border:6px solid black;
+  
+  
+  
+}
+button:hover
+{
+	
+	background:red;
+	color:white;
+	
+	
+}
+
+.logo h1
+{
+	color:red;
+		
+}
+
+

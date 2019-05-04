@@ -1,0 +1,94 @@
+.from_name
+{
+	background:url(medicine_data_cheak.png);
+	width:1340px;
+	height:650px;
+	
+}
+h1
+{
+	color:red;
+	margin:0px 0px 0px 425px;
+}
+h3
+{
+	color:black;
+	margin:0px 0px 0px 200px;
+}
+
+
+
+
+
+
+.ward_id
+{
+	padding:50px 0px 0px 200px;
+	color:#080808v;
+	
+}
+.registrar_id
+{
+	padding:10px 0px 0px 450px;
+	color:#080808;
+	margin-top:-100px;    
+} 
+.nurse_supervisor_id
+{
+	padding:10px 0px 0px 725px;
+	color:#080808;
+	margin-top:-100px;    
+}
+
+
+
+
+
+
+.ward_name
+{
+	padding:10px 0px 0px 200px;
+	color:#080808;
+	margin-top:5px;    
+}
+.registrar_name
+{
+	padding:10px 0px 0px 450px;
+	color:#080808;
+	margin-top:-100px;    
+}
+.nurse_supervisor_name
+{
+	padding:10px 0px 0px 725px;
+	color:#080808;
+	margin-top:-100px;    
+}
+
+
+
+.submit
+{ 
+    padding:10px 0px 0px 540px;
+	color:#5A64F6;
+	margin-top:220px; 
+}
+#submit
+{
+
+	width:130px;
+	height:35px;
+	border:none;
+	background:#4CB261;
+	font-size:22px;
+	color:white;
+	margin-top:5px;
+	margin-left:10px;
+	cursor:pointer;
+
+}
+#submit:hover
+{
+	background:#0BDA35;
+}
+
+

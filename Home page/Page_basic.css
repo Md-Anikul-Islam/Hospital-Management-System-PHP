@@ -1,0 +1,42 @@
+.y
+{
+	background:url(hom.jpg);
+	width:1340px;
+	height:650px;
+}
+
+.x a, li
+{
+	display:inline;
+	text-transform:uppercase;
+	font-size:25px;
+	text-decoration:none;
+	padding-left:20px;
+	padding-right:15px;
+	color:#F7044E;
+}
+.x
+{
+	padding-top:40px;
+}
+.x a:hover
+{
+	text-decoration:underline;
+	color:#FF0303;
+}
+h1
+{
+	color: RED;
+	font-family:chiller;
+	font-size:55px;
+	margin:450px 0px 0px 50px;
+}
+
+h2
+{
+	color:white;
+	font-size:20px;
+	margin:-550px 0px 0px 300px;
+	margin-top:-580;
+	
+}

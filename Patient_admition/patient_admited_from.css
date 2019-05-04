@@ -1,0 +1,190 @@
+.from_name
+{
+	background:url(Page_basic_from_img_02.jpg);
+	width:1350px;
+	height:1000px;
+	
+}
+h1
+{
+	color:black;
+	margin:0px 0px 0px 425px;
+}
+h3
+{
+	color:black;
+	margin:0px 0px 0px 200px;
+}
+
+
+
+
+
+
+
+
+
+.date_of_admission
+{
+	padding:30px 0px 0px 200px;
+	color:#5A64F6;
+	
+}
+.first_name
+{
+	padding:5px 0px 0px 200px;
+	color:#5A64F6;
+	
+}
+.middle_name
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+} 
+.last_name
+{
+	padding:10px 0px 0px 725px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+
+
+
+
+
+
+.date_of_birth
+{
+	padding:10px 0px 0px 200px;
+	color:#5A64F6;
+	margin-top:5px;    
+}
+.mobile01
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+.mobile02
+{
+	padding:10px 0px 0px 725px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+
+
+
+
+
+
+
+.village
+{
+	padding:10px 0px 0px 200px;
+	color:#5A64F6;
+	margin-top:5px;    
+}
+.street_name
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+.area
+{
+	padding:10px 0px 0px 200px;
+	color:#5A64F6;
+	margin-top:5px;    
+}
+.thana 
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+.district
+{
+	padding:10px 0px 0px 725px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+
+
+
+
+
+.profession
+{
+	padding:10px 0px 0px 200px;
+	color:#5A64F6;
+	margin-top:5px;    
+}
+.amount_deposited
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+.choice_cabin_ward_no
+{
+	padding:10px 0px 0px 200px;
+	color:#5A64F6;
+	margin-top:5px;    
+}
+.signature_with_date
+{
+	padding:10px 0px 0px 450px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+.rlation_with_the_patient
+{
+	padding:10px 0px 0px 725px;
+	color:#5A64F6;
+	margin-top:-100px;    
+}
+.gender
+{
+	
+	
+	
+	
+	padding:120px 0px 0px 195px;
+	color:#5A64F6;
+	margin-top:-100px;  
+	
+}
+
+
+
+
+
+
+
+
+
+.submit
+{ 
+    padding:10px 0px 0px 540px;
+	color:#5A64F6;
+	margin-top:-20px; 
+}
+#submit
+{
+
+	width:130px;
+	height:35px;
+	border:none;
+	background:#4CB261;
+	font-size:22px;
+	color:white;
+	margin-top:5px;
+	margin-left:10px;
+	cursor:pointer;
+
+}
+#submit:hover
+{
+	background:#0BDA35;
+}
